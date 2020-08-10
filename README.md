@@ -13,3 +13,6 @@ The fireballs can be fired with space bar.
 
 ## Game engine used
 Game maker studio 2
+
+## Demo
+[<img src="https://img.youtube.com/vi/uADsbculNH8/maxresdefault.jpg" width="50%">](https://youtu.be/uADsbculNH8)
