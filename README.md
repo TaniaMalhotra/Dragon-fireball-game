@@ -15,4 +15,6 @@ The fireballs can be fired with space bar.
 Game maker studio 2
 
 ## Demo
-[<img src="https://imgur.com/a/Ihn1yUD"](https://youtu.be/uADsbculNH8)
+https://youtu.be/uADsbculNH8
+
+## <img src = "https://imgur.com/FMrsqr3">
