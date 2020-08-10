@@ -17,4 +17,4 @@ Game maker studio 2
 ## Demo
 https://youtu.be/uADsbculNH8
 
-## <blockquote class="imgur-embed-pub" lang="en" data-id="a/Ihn1yUD"  ><a href="//imgur.com/a/Ihn1yUD">dragon fireball</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
